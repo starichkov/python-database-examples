@@ -1,6 +1,8 @@
 Python Database Examples
 =
-Python 3.6 examples of working with databases using:
+Python 3.6 examples of working with couple of databases
+
+### SQLite
 
 1. Pure SQL (DP-API)
 1. SQLAlchemy
@@ -8,7 +10,11 @@ Python 3.6 examples of working with databases using:
    * using expressions
    * using ORM
 
-#### Notes
+### PostgreSQL
+
+> In progress...
+
+### Notes
 
 Do not forger to install SQLAlchemy:
 
